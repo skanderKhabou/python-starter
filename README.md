@@ -23,3 +23,4 @@ B. Update this README.md with the insctruction(s) needed to run that script
 ```shell
 <REPLACE_WITH_YOUR_INSTRUCTION>
 ```
+// i did not understand python sorry :'( iit gives me an error it doesen t find python 
