@@ -19,6 +19,8 @@
 # else:
 #     dont_eat()
 
+# IMPORTANT : Indentation in a python should have the same size
+# Either use 4 spaces or tabs for each indent
 # With that information in mind, happy hacking :)
 
 #########
